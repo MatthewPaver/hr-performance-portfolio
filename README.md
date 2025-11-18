@@ -1,33 +1,105 @@
-# HR Performance and Project Delivery Repository
+# HR Performance and Project Delivery Portfolio
 
-## Overview
-This repository hosts a collection of files related to HR performance reporting and project delivery analysis, featuring dashboards, data sets, and comprehensive documentation of methodologies and results.
+> A comprehensive portfolio showcasing HR performance reporting and project delivery analysis, featuring interactive Power BI dashboards, data analysis, and detailed project documentation.
+
+---
+
+## 📊 Overview
+
+This repository hosts a collection of files related to HR performance reporting and project delivery analysis. The portfolio includes interactive dashboards, comprehensive documentation, and visual walkthroughs that demonstrate methodologies, results, and insights from key projects.
+
+---
+
+## 📁 Repository Contents
+
+- **📄 [Summative Portfolio.pdf](Summative%20Portfolio.pdf)** — Comprehensive portfolio documenting project overviews, challenges, achievements, and methodologies
+- **🎥 Project 3 Walkthrough Video** — Step-by-step tutorial demonstrating dashboard creation and analysis
+- **📊 Project 3 Dashboard** — Visual representation of HR performance metrics
+
+---
+
+## 🎥 Project 3 Walkthrough Video
+
+<div align="center">
+
+<video width="100%" controls style="max-width: 800px;">
+  <source src="Project%203%20Walkthrough.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p>
+  <a href="Project%203%20Walkthrough.mp4">📥 Download Video</a> | 
+  <a href="https://youtu.be/KDerP99pWNs">▶️ Watch on YouTube</a>
+</p>
+
+</div>
+
+---
+
+## 📊 Dashboard Preview
+
+<div align="center">
 
 ![Project 3 Dashboard](Project%203%20Dashboard.PNG)
 
-## Contents
-- `Summative Portfolio.pdf`: A portfolio compiling detailed information on several key projects, including project overviews, challenges, and achievements.
-- **Project 3 Walkthrough Video**: A video guide providing a step-by-step tutorial on the creation and analysis of Project 3's dashboard.
+</div>
 
-### Project 3 Walkthrough Video
+---
 
-<video width="800" controls>
-  <source src="Project%203%20Walkthrough.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Download the video](Project%203%20Walkthrough.mp4) or [watch on YouTube](https://youtu.be/KDerP99pWNs).
-</video>
+## 📋 Detailed Descriptions
 
-## Detailed Descriptions
+### 🎯 Dashboards
 
-### Dashboards
-Power BI dashboards provide a live, interactive view into HR performance metrics, enabling insights into employee health, departmental distribution, and sales performance.
+Power BI dashboards provide live, interactive views into HR performance metrics, enabling insights into:
+- Employee health and wellbeing metrics
+- Departmental distribution and performance
+- Sales performance analytics
+- Real-time data visualisation
 
-### Documentation and Reports
-The provided PDF documents serve as a comprehensive reference on the HR performance project, detailing every aspect from planning to execution and future recommendations.
+### 📚 Documentation and Reports
 
-### Visual and Media Resources
-The image above and the embedded video below offer visual representations and demonstrations of the dashboards, enhancing understanding of the data and its presentation. You can also [watch the video on YouTube](https://youtu.be/KDerP99pWNs).
+The portfolio PDF serves as a comprehensive reference on the HR performance project, detailing:
+- Project planning and methodology
+- Execution strategies
+- Data analysis approaches
+- Results and insights
+- Future recommendations
 
-## Getting Started
-1. View the `Summative Portfolio.pdf` for a comprehensive overview of the included projects.
-2. Analyze the CSV files using your preferred data analysis tools.
-3. Engage with the Power BI dashboard to explore interactive visualizations of the data.
+### 🎬 Visual and Media Resources
+
+The dashboard image and embedded video above offer visual representations and demonstrations of the dashboards, enhancing understanding of the data and its presentation.
+
+---
+
+## 🚀 Getting Started
+
+1. **Review the Portfolio** — Start by viewing the [`Summative Portfolio.pdf`](Summative%20Portfolio.pdf) for a comprehensive overview of all included projects
+2. **Watch the Walkthrough** — View the embedded video above or [watch on YouTube](https://youtu.be/KDerP99pWNs) for a step-by-step dashboard tutorial
+3. **Explore the Dashboard** — Examine the dashboard image to understand the visualisations and metrics presented
+4. **Analyse the Data** — Use your preferred data analysis tools to explore the methodologies and insights
+
+---
+
+## 📝 Project Highlights
+
+- ✅ Interactive Power BI dashboards
+- ✅ Comprehensive project documentation
+- ✅ Video walkthroughs and tutorials
+- ✅ Data-driven insights and analysis
+- ✅ Professional presentation of HR metrics
+
+---
+
+## 🔗 Additional Resources
+
+- [Watch Video on YouTube](https://youtu.be/KDerP99pWNs)
+- [Download Portfolio PDF](Summative%20Portfolio.pdf)
+- [Download Video File](Project%203%20Walkthrough.mp4)
+
+---
+
+<div align="center">
+
+Made with ❤️ for HR performance analysis and project delivery
+
+</div>
