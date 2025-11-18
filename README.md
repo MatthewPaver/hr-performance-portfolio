@@ -18,11 +18,27 @@ This repository hosts a collection of files related to HR performance reporting 
 
 ---
 
+## 📄 Summative Portfolio
+
+<div align="center">
+
+<iframe src="Summative%20Portfolio.pdf" width="100%" height="600px" style="border: 1px solid #ccc;">
+  <p>Your browser does not support PDFs. <a href="Summative%20Portfolio.pdf">Download the PDF</a> instead.</p>
+</iframe>
+
+<p>
+  <a href="Summative%20Portfolio.pdf">📥 Download PDF</a>
+</p>
+
+</div>
+
+---
+
 ## 🎥 Project 3 Walkthrough Video
 
 <div align="center">
 
-<video width="100%" controls style="max-width: 800px;">
+<video width="100%" controls style="max-width: 800px; border-radius: 8px;">
   <source src="Project%203%20Walkthrough.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -73,7 +89,7 @@ The dashboard image and embedded video above offer visual representations and de
 
 ## 🚀 Getting Started
 
-1. **Review the Portfolio** — Start by viewing the [`Summative Portfolio.pdf`](Summative%20Portfolio.pdf) for a comprehensive overview of all included projects
+1. **Review the Portfolio** — Start by viewing the embedded PDF above or [download it](Summative%20Portfolio.pdf) for a comprehensive overview of all included projects
 2. **Watch the Walkthrough** — View the embedded video above or [watch on YouTube](https://youtu.be/KDerP99pWNs) for a step-by-step dashboard tutorial
 3. **Explore the Dashboard** — Examine the dashboard image to understand the visualisations and metrics presented
 4. **Analyse the Data** — Use your preferred data analysis tools to explore the methodologies and insights
@@ -92,9 +108,9 @@ The dashboard image and embedded video above offer visual representations and de
 
 ## 🔗 Additional Resources
 
-- [Watch Video on YouTube](https://youtu.be/KDerP99pWNs)
-- [Download Portfolio PDF](Summative%20Portfolio.pdf)
-- [Download Video File](Project%203%20Walkthrough.mp4)
+- [📄 Download Portfolio PDF](Summative%20Portfolio.pdf)
+- [🎥 Watch Video on YouTube](https://youtu.be/KDerP99pWNs)
+- [📥 Download Video File](Project%203%20Walkthrough.mp4)
 
 ---
 
