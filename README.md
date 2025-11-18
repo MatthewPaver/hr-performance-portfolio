@@ -3,7 +3,7 @@
 ## Overview
 This repository hosts a collection of files related to HR performance reporting and project delivery analysis, featuring dashboards, data sets, and comprehensive documentation of methodologies and results.
 
-![Project 3 Dashboard](https://github.com/MatthewPaver/MatthewPaver/blob/main/Summative%20Portfolio%20-%20Projecting%20Success/Project%203%20Dashboard.PNG)
+![Project 3 Dashboard](Project%203%20Dashboard.PNG)
 
 ## Contents
 - `Summative Portfolio.pdf`: A portfolio compiling detailed information on several key projects, including project overviews, challenges, and achievements.
